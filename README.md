@@ -2,7 +2,7 @@
 Gym Churn Prediction
 This project aims to predict customer churn in a gym setting using various machine learning algorithms. The dataset contains several features, including demographic information and usage statistics, and the target variable is 'churn', which indicates whether a customer has left the gym
 
-Dataset Features
+#Dataset Features
 
 The dataset includes the following features:
 
@@ -39,22 +39,22 @@ avg_class_frequency_current_month: Frequency of class attendance in the current 
 
 churn: Target variable (whether the customer has churned)
 
-Objective
+#Objective
 
 The objective of this project is to build a predictive model that can identify whether a gym member will churn. We employ different classification algorithms and use hyperparameter tuning to achieve the best model performance.
 
-Algorithms Used
+#Algorithms Used
 
 Logistic Regression
 
 AdaBoost
 
 
-Model Performance
+#Model Performance
 
 Logistic Regression achieved an accuracy of 93.34%, showing a slight difference compared to the other models.
 AdaBoost algorithm achived an accuracy of  91.92%
 
 
-Conclusion
+#Conclusion
 The project demonstrates that Logistic Regression performs slightly better than AdaBoost for predicting gym churn.
