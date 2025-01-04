@@ -2,10 +2,16 @@
 Gym Churn Prediction
 This project aims to predict customer churn in a gym setting using various machine learning algorithms. The dataset contains several features, including demographic information and usage statistics, and the target variable is 'churn', which indicates whether a customer has left the gym
 Dataset Features
+
 The dataset includes the following features:
 
+
 gender: Customer's gender (e.g., Male, Female)
+
+
 near_location: Whether the customer is near the gym's location (e.g., Yes, No)
+
+
 partner: Whether the customer has a gym partner (e.g., Yes, No)
 promo_friends: Whether the customer was referred by friends (e.g., Yes, No)
 phone: Whether the customer has provided a phone number (e.g., Yes, No)
